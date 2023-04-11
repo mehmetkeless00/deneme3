@@ -1,0 +1,15 @@
+/Users/mehmetkeles/Projects/brocode/Arrays/bin/Debug/net7.0/Arrays
+/Users/mehmetkeles/Projects/brocode/Arrays/bin/Debug/net7.0/Arrays.deps.json
+/Users/mehmetkeles/Projects/brocode/Arrays/bin/Debug/net7.0/Arrays.runtimeconfig.json
+/Users/mehmetkeles/Projects/brocode/Arrays/bin/Debug/net7.0/Arrays.dll
+/Users/mehmetkeles/Projects/brocode/Arrays/bin/Debug/net7.0/Arrays.pdb
+/Users/mehmetkeles/Projects/brocode/Arrays/obj/Debug/net7.0/Arrays.csproj.AssemblyReference.cache
+/Users/mehmetkeles/Projects/brocode/Arrays/obj/Debug/net7.0/Arrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mehmetkeles/Projects/brocode/Arrays/obj/Debug/net7.0/Arrays.AssemblyInfoInputs.cache
+/Users/mehmetkeles/Projects/brocode/Arrays/obj/Debug/net7.0/Arrays.AssemblyInfo.cs
+/Users/mehmetkeles/Projects/brocode/Arrays/obj/Debug/net7.0/Arrays.csproj.CoreCompileInputs.cache
+/Users/mehmetkeles/Projects/brocode/Arrays/obj/Debug/net7.0/Arrays.dll
+/Users/mehmetkeles/Projects/brocode/Arrays/obj/Debug/net7.0/refint/Arrays.dll
+/Users/mehmetkeles/Projects/brocode/Arrays/obj/Debug/net7.0/Arrays.pdb
+/Users/mehmetkeles/Projects/brocode/Arrays/obj/Debug/net7.0/Arrays.genruntimeconfig.cache
+/Users/mehmetkeles/Projects/brocode/Arrays/obj/Debug/net7.0/ref/Arrays.dll

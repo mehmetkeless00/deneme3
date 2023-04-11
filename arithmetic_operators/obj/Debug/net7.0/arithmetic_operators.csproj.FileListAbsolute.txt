@@ -1,0 +1,15 @@
+/Users/mehmetkeles/Projects/brocode/arithmetic_operators/bin/Debug/net7.0/arithmetic_operators
+/Users/mehmetkeles/Projects/brocode/arithmetic_operators/bin/Debug/net7.0/arithmetic_operators.deps.json
+/Users/mehmetkeles/Projects/brocode/arithmetic_operators/bin/Debug/net7.0/arithmetic_operators.runtimeconfig.json
+/Users/mehmetkeles/Projects/brocode/arithmetic_operators/bin/Debug/net7.0/arithmetic_operators.dll
+/Users/mehmetkeles/Projects/brocode/arithmetic_operators/bin/Debug/net7.0/arithmetic_operators.pdb
+/Users/mehmetkeles/Projects/brocode/arithmetic_operators/obj/Debug/net7.0/arithmetic_operators.csproj.AssemblyReference.cache
+/Users/mehmetkeles/Projects/brocode/arithmetic_operators/obj/Debug/net7.0/arithmetic_operators.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mehmetkeles/Projects/brocode/arithmetic_operators/obj/Debug/net7.0/arithmetic_operators.AssemblyInfoInputs.cache
+/Users/mehmetkeles/Projects/brocode/arithmetic_operators/obj/Debug/net7.0/arithmetic_operators.AssemblyInfo.cs
+/Users/mehmetkeles/Projects/brocode/arithmetic_operators/obj/Debug/net7.0/arithmetic_operators.csproj.CoreCompileInputs.cache
+/Users/mehmetkeles/Projects/brocode/arithmetic_operators/obj/Debug/net7.0/arithmetic_operators.dll
+/Users/mehmetkeles/Projects/brocode/arithmetic_operators/obj/Debug/net7.0/refint/arithmetic_operators.dll
+/Users/mehmetkeles/Projects/brocode/arithmetic_operators/obj/Debug/net7.0/arithmetic_operators.pdb
+/Users/mehmetkeles/Projects/brocode/arithmetic_operators/obj/Debug/net7.0/arithmetic_operators.genruntimeconfig.cache
+/Users/mehmetkeles/Projects/brocode/arithmetic_operators/obj/Debug/net7.0/ref/arithmetic_operators.dll

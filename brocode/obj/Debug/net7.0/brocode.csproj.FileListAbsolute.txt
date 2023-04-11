@@ -1,0 +1,15 @@
+/Users/mehmetkeles/Projects/brocode/brocode/bin/Debug/net7.0/brocode
+/Users/mehmetkeles/Projects/brocode/brocode/bin/Debug/net7.0/brocode.deps.json
+/Users/mehmetkeles/Projects/brocode/brocode/bin/Debug/net7.0/brocode.runtimeconfig.json
+/Users/mehmetkeles/Projects/brocode/brocode/bin/Debug/net7.0/brocode.dll
+/Users/mehmetkeles/Projects/brocode/brocode/bin/Debug/net7.0/brocode.pdb
+/Users/mehmetkeles/Projects/brocode/brocode/obj/Debug/net7.0/brocode.csproj.AssemblyReference.cache
+/Users/mehmetkeles/Projects/brocode/brocode/obj/Debug/net7.0/brocode.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mehmetkeles/Projects/brocode/brocode/obj/Debug/net7.0/brocode.AssemblyInfoInputs.cache
+/Users/mehmetkeles/Projects/brocode/brocode/obj/Debug/net7.0/brocode.AssemblyInfo.cs
+/Users/mehmetkeles/Projects/brocode/brocode/obj/Debug/net7.0/brocode.csproj.CoreCompileInputs.cache
+/Users/mehmetkeles/Projects/brocode/brocode/obj/Debug/net7.0/brocode.dll
+/Users/mehmetkeles/Projects/brocode/brocode/obj/Debug/net7.0/refint/brocode.dll
+/Users/mehmetkeles/Projects/brocode/brocode/obj/Debug/net7.0/brocode.pdb
+/Users/mehmetkeles/Projects/brocode/brocode/obj/Debug/net7.0/brocode.genruntimeconfig.cache
+/Users/mehmetkeles/Projects/brocode/brocode/obj/Debug/net7.0/ref/brocode.dll

@@ -1,0 +1,15 @@
+/Users/mehmetkeles/Projects/brocode/calculator__program/bin/Debug/net7.0/calculator__program
+/Users/mehmetkeles/Projects/brocode/calculator__program/bin/Debug/net7.0/calculator__program.deps.json
+/Users/mehmetkeles/Projects/brocode/calculator__program/bin/Debug/net7.0/calculator__program.runtimeconfig.json
+/Users/mehmetkeles/Projects/brocode/calculator__program/bin/Debug/net7.0/calculator__program.dll
+/Users/mehmetkeles/Projects/brocode/calculator__program/bin/Debug/net7.0/calculator__program.pdb
+/Users/mehmetkeles/Projects/brocode/calculator__program/obj/Debug/net7.0/calculator__program.csproj.AssemblyReference.cache
+/Users/mehmetkeles/Projects/brocode/calculator__program/obj/Debug/net7.0/calculator__program.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mehmetkeles/Projects/brocode/calculator__program/obj/Debug/net7.0/calculator__program.AssemblyInfoInputs.cache
+/Users/mehmetkeles/Projects/brocode/calculator__program/obj/Debug/net7.0/calculator__program.AssemblyInfo.cs
+/Users/mehmetkeles/Projects/brocode/calculator__program/obj/Debug/net7.0/calculator__program.csproj.CoreCompileInputs.cache
+/Users/mehmetkeles/Projects/brocode/calculator__program/obj/Debug/net7.0/calculator__program.dll
+/Users/mehmetkeles/Projects/brocode/calculator__program/obj/Debug/net7.0/refint/calculator__program.dll
+/Users/mehmetkeles/Projects/brocode/calculator__program/obj/Debug/net7.0/calculator__program.pdb
+/Users/mehmetkeles/Projects/brocode/calculator__program/obj/Debug/net7.0/calculator__program.genruntimeconfig.cache
+/Users/mehmetkeles/Projects/brocode/calculator__program/obj/Debug/net7.0/ref/calculator__program.dll
